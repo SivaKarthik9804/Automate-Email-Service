@@ -1,0 +1,5 @@
+{
+  "SENDER_EMAIL": "your-email@example.com",
+  "RECIPIENT_EMAIL": "recipient@example.com",
+  "AWS_REGION": "ap-south-1"
+}
