@@ -1,0 +1,15 @@
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore AWS credentials & sensitive data
+config.json
+.aws/
+.env
+
+# Ignore deployment packages
+function.zip
